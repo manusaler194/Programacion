@@ -18,7 +18,7 @@ public class Grados {
      System.out.println("En farenheit es " +  farenheit );
      System.out.println("En farenheit es " +  kelvin );
 
-
+    scanner.close();
      
     }
 }
